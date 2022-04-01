@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/number-float32-base-to-uint32",
+  "version": "0.0.0",
+  "description": "Convert a single-precision floating-point number to an unsigned 32-bit integer.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/number-float32-base-to-uint32.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "base",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "types",
+    "type",
+    "cast",
+    "convert",
+    "float32",
+    "float",
+    "single",
+    "real",
+    "uint32",
+    "integer",
+    "uint",
+    "unsigned",
+    "to",
+    "bits",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
