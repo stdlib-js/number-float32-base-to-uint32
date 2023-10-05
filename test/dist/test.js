@@ -31,8 +31,8 @@ var float32ToUint32 = require( './../../dist' );
 
 // FIXTURES //
 
-var integers = require( './../..xtures/julia/integers.json' );
-var decimals = require( './../..xtures/julia/decimals.json' );
+var integers = require( './../fixtures/julia/integers.json' );
+var decimals = require( './../fixtures/julia/decimals.json' );
 
 
 // TESTS //
