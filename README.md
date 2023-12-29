@@ -129,6 +129,12 @@ for ( i = 0; i < 500; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/number-float32/base/to-int32`][@stdlib/number/float32/base/to-int32]</span><span class="delimiter">: </span><span class="description">convert a single-precision floating-point number to a signed 32-bit integer.</span>
+
 </section>
 
 <!-- /.related -->
@@ -203,6 +209,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-float32-base-to-uint32/main/LICENSE
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/number/float32/base/to-int32]: https://github.com/stdlib-js/number-float32-base-to-int32
+
+<!-- </related-links> -->
 
 </section>
 
