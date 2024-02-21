@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import float32ToUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-uint32@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-float32-base-to-uint32/tags). For example,
+
+```javascript
 import float32ToUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-uint32@v0.2.1-deno/mod.js';
 ```
 
@@ -86,7 +91,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import MAX_INT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@deno/mod.js';
 import float64ToFloat32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float32@deno/mod.js';
-import float32ToUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-uint32@v0.2.1-deno/mod.js';
+import float32ToUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-to-uint32@deno/mod.js';
 
 var uint32;
 var half;
